@@ -1,1 +1,2 @@
 Első sorom az első fájlomban.
+Második sorom beszúrása megtörtént.
